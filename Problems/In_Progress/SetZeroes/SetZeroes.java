@@ -1,6 +1,6 @@
-package LeetcodeProjects.Problems.In_Progress.SetZeroes;
+package Problems.In_Progress.SetZeroes;
 
-import LeetcodeProjects.Common.ImportJson;
+import Common.ImportJson;
 import java.util.*;
 
 public class SetZeroes {

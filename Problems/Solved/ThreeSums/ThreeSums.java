@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.Solved.ThreeSums;
+package Problems.Solved.ThreeSums;
 import java.util.*;
 
 public class ThreeSums {

@@ -1,4 +1,4 @@
-package LeetcodeProjects.Common;
+package Common;
 import java.util.*;
 public class TreeNodeGen<T> {
     public T val;

@@ -1,4 +1,4 @@
-package LeetcodeProjects.Common;
+package Common;
 
 import java.util.LinkedList;
 import java.util.Queue;

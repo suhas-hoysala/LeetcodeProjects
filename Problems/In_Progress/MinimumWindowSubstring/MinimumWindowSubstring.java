@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.In_Progress.MinimumWindowSubstring;
+package Problems.In_Progress.MinimumWindowSubstring;
 import java.util.*;
 public class MinimumWindowSubstring {
     

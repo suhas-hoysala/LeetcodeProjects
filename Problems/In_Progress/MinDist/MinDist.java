@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.In_Progress.MinDist;
+package Problems.In_Progress.MinDist;
 public class MinDist {
 
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package LeetcodeProjects.Problems.In_Progress.RemoveBoxes;
-import LeetcodeProjects.Common.ImportJson;
+package Problems.In_Progress.RemoveBoxes;
+import Common.ImportJson;
 import java.util.Arrays;
 public class RemoveBoxes {
     public static void main(String[] args) {

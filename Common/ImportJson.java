@@ -1,4 +1,4 @@
-package LeetcodeProjects.Common;
+package Common;
 
 import java.util.*;
 import org.json.*;
@@ -60,7 +60,7 @@ public class ImportJson {
     }
 
     public static String readFileData(String filename) {
-        TextIO.readFile("JavaStuff\\Stuff\\LeetcodeProjects\\files\\" + filename);
+        TextIO.readFile("files\\" + filename);
         String s = "";
         while (!TextIO.eof()) {
             s += TextIO.getln();

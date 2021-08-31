@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.Solved.PairedNumbers;
+package Problems.Solved.PairedNumbers;
 import java.util.*;
 public class PairedNumbers {
 

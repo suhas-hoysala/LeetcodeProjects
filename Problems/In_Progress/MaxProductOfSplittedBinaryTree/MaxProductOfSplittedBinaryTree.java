@@ -1,6 +1,6 @@
-package LeetcodeProjects.Problems.In_Progress.MaxProductOfSplittedBinaryTree;
+package Problems.In_Progress.MaxProductOfSplittedBinaryTree;
 
-import LeetcodeProjects.Common.*;
+import Common.*;
 
 public class MaxProductOfSplittedBinaryTree {
     public static void main(String[] args) {

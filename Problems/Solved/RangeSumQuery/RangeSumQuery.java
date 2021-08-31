@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.Solved.RangeSumQuery;
+package Problems.Solved.RangeSumQuery;
 
 import java.util.*;
 

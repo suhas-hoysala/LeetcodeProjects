@@ -1,5 +1,5 @@
-package LeetcodeProjects.Problems.In_Progress.ValidSudoku;
-import LeetcodeProjects.Common.*;
+package Problems.In_Progress.ValidSudoku;
+import Common.*;
 import java.util.*;
 public class ValidSudoku {
     public static void main(String[] args) {

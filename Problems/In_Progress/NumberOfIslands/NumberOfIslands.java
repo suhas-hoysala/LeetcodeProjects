@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.In_Progress.NumberOfIslands;
+package Problems.In_Progress.NumberOfIslands;
 import java.util.*;
 import org.json.*;
 import textio.*;

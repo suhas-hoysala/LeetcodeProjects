@@ -1,6 +1,6 @@
-package LeetcodeProjects.Problems.In_Progress.PathsSum2;
+package Problems.In_Progress.PathsSum2;
 import java.util.*;
-import LeetcodeProjects.Common.TreeNode;
+import Common.TreeNode;
 
 
 public class PathsSum2 {

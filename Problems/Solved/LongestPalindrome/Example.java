@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.Solved.LongestPalindrome;
+package Problems.Solved.LongestPalindrome;
 public class Example {
     public static String newLongestPalindrome(String s, String substr, int i, int j) {
         String longestPalindrome = ""+substr;

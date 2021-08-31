@@ -1,5 +1,5 @@
-package LeetcodeProjects.Problems.Solved.GoodNodes;
-import LeetcodeProjects.Common.*;
+package Problems.Solved.GoodNodes;
+import Common.*;
 public class GoodNodes {
     
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LeetcodeProjects.Problems.In_Progress.NumMappings;
+package Problems.In_Progress.NumMappings;
 
 import java.util.*;
 
